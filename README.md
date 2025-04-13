@@ -17,6 +17,11 @@ Highly recommended reading the whole [OpenCore Install Guide](https://dortania.g
 * eGPU: GeForce GTX 750M (disable)
 * RAM: DDR3L 1600 8GB
 
+## BIOS Setting after installation
+For fixing CFG lock follow
+[this section](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html)
+from [dortania](https://github.com/dortania)'s guide.
+
 ## Software
 
 * Bootloader: OpenCore 1.0.4
@@ -26,4 +31,7 @@ Highly recommended reading the whole [OpenCore Install Guide](https://dortania.g
 ## Thanks
 
  Sonoma Install Guide [GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70](https://github.com/GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70/) 
+ asusn550jv-hackintosh [superrnovae/asusn550jv-hackintosh](https://github.com/superrnovae/asusn550jv-hackintosh/) 
+ hackintosh-n550 [rubinda/hackintosh-n550](https://github.com/rubinda/hackintosh-n550/) 
+ SimpleMSR [arter97/SimpleMSR](https://github.com/arter97/SimpleMSR/) 
  
