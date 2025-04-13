@@ -30,8 +30,8 @@ from [dortania](https://github.com/dortania)'s guide.
 
 ## Thanks
 
- Sonoma Install Guide [GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70](https://github.com/GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70/) 
- asusn550jv-hackintosh [superrnovae/asusn550jv-hackintosh](https://github.com/superrnovae/asusn550jv-hackintosh/) 
- hackintosh-n550 [rubinda/hackintosh-n550](https://github.com/rubinda/hackintosh-n550/) 
- SimpleMSR [arter97/SimpleMSR](https://github.com/arter97/SimpleMSR/) 
+- Sonoma Install Guide [GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70](https://github.com/GeekyCoder7/OpenCore-EFI-Lenovo-Y50-70/) 
+- asusn550jv-hackintosh [superrnovae/asusn550jv-hackintosh](https://github.com/superrnovae/asusn550jv-hackintosh/) 
+- hackintosh-n550 [rubinda/hackintosh-n550](https://github.com/rubinda/hackintosh-n550/) 
+- SimpleMSR [arter97/SimpleMSR](https://github.com/arter97/SimpleMSR/) 
  
